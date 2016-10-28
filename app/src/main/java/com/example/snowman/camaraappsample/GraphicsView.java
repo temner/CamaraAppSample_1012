@@ -8,7 +8,7 @@ import android.view.View;
 
 
 /**
- * Created by SnowMan on 2016/10/12.
+ * Created by SnowMan on 2016/10/25.
  */
 
 public class GraphicsView extends View {
